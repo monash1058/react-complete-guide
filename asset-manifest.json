@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/monash1058/react-complete-guide/static/css/main.33e169dc.css",
-    "main.js": "/monash1058/react-complete-guide/static/js/main.77ef0e48.js",
-    "static/js/787.a56bf26b.chunk.js": "/monash1058/react-complete-guide/static/js/787.a56bf26b.chunk.js",
-    "index.html": "/monash1058/react-complete-guide/index.html",
-    "main.33e169dc.css.map": "/monash1058/react-complete-guide/static/css/main.33e169dc.css.map",
-    "main.77ef0e48.js.map": "/monash1058/react-complete-guide/static/js/main.77ef0e48.js.map",
-    "787.a56bf26b.chunk.js.map": "/monash1058/react-complete-guide/static/js/787.a56bf26b.chunk.js.map"
+    "main.css": "/react-complete-guide/static/css/main.33e169dc.css",
+    "main.js": "/react-complete-guide/static/js/main.1393484b.js",
+    "static/js/787.a56bf26b.chunk.js": "/react-complete-guide/static/js/787.a56bf26b.chunk.js",
+    "index.html": "/react-complete-guide/index.html",
+    "main.33e169dc.css.map": "/react-complete-guide/static/css/main.33e169dc.css.map",
+    "main.1393484b.js.map": "/react-complete-guide/static/js/main.1393484b.js.map",
+    "787.a56bf26b.chunk.js.map": "/react-complete-guide/static/js/787.a56bf26b.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.33e169dc.css",
-    "static/js/main.77ef0e48.js"
+    "static/js/main.1393484b.js"
   ]
 }
